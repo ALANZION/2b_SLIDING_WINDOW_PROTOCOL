@@ -9,9 +9,10 @@
 5. If your frames reach the server it will send ACK signal to client
 6. Stop the Program
 ## PROGRAM
+```
 NAME:ALAN ZION H
 REG NO;212223240004
-```
+
 ## CLIENT
 import socket
 s=socket.socket()
