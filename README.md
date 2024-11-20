@@ -1,4 +1,6 @@
 # 2b IMPLEMENTATION OF SLIDING WINDOW PROTOCOL
+## NAME:ALAN ZION H
+## REG NO:212223240004
 ## AIM
  To write a python program to perform sliding window protocol
 ## ALGORITHM:
